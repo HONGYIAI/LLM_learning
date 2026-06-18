@@ -1,0 +1,146 @@
+### ============================================================
+### LLM 算法岗学习资源索引（第1-8周）
+### 整理日期：2026-06-17
+### 使用方法：导入 Postman / Insomnia，或直接用浏览器打开
+### ============================================================
+
+
+### ============================================================
+### 阶段一：基础强化 + API 实战（第1-4周）
+### ============================================================
+
+### 第1周：Python工程化 + LLM认知入门
+### ------------------------------------------------------------
+
+# 微软生成式AI入门课程（18节课，开源，含中文）
+# 从AI基础到Prompt工程、RAG、AI Agent，含视频+代码
+GET https://microsoft.github.io/generative-ai-for-beginners/
+# 来源：[reference:0][reference:2]
+
+# 备用地址（GitHub仓库，111k+ Stars）
+GET https://github.com/microsoft/generative-ai-for-beginners
+# 来源：[reference:3]
+
+# Hugging Face 官方文档（Transformers库快速上手）
+GET https://huggingface.co/docs/transformers/index
+# 来源：第1周资源
+
+
+### 第2周：PyTorch基础 + NumPy强化
+### ------------------------------------------------------------
+
+# PyTorch 官方60分钟入门教程
+GET https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+# 来源：第2周资源
+
+# 李沐《动手学深度学习》PyTorch版（在线免费，含视频）
+GET https://zh.d2l.ai/
+# 来源：[reference:4]
+
+# B站：李沐《动手学深度学习 PyTorch版》中文讲解
+GET https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+# 来源：[reference:5]
+
+# PyTorch 保姆级入门教程（B站，2026最新）
+GET https://www.bilibili.com/video/BV1XZ4y1E7wE
+# 来源：[reference:6]
+
+
+### 第3周：Hugging Face Transformers 上手
+### ------------------------------------------------------------
+
+# Hugging Face Transformers 快速入门（Quick Tour）
+GET https://huggingface.co/docs/transformers/quicktour
+# 来源：第3周资源
+
+# Andrej Karpathy: "零基础构建GPT" 系列
+GET https://www.youtube.com/watch?v=kCc8FmEb1nY
+# 来源：第3周资源
+
+# Hugging Face 模型库（找 SmolLM2 等小模型）
+GET https://huggingface.co/models
+
+
+### 第4周：第一个项目——命令行AI助手
+### ------------------------------------------------------------
+
+# FastAPI 官方文档
+GET https://fastapi.tiangolo.com/
+
+# DeepSeek API 文档
+GET https://platform.deepseek.com/api-docs/
+
+# 通义千问 API 文档
+GET https://help.aliyun.com/zh/dashscope/
+
+
+### ============================================================
+### 阶段二：Prompt工程 + Tool Calling（第5-8周）
+### ============================================================
+
+### 第5周：Prompt Engineering 系统学习
+### ------------------------------------------------------------
+
+# DeepLearning.AI: ChatGPT Prompt Engineering for Developers（免费）
+# 由OpenAI的Isa Fulford与吴恩达联合授课，1.5小时
+GET https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+# 来源：[reference:7][reference:8]
+
+# PromptBase（优秀提示词案例参考）
+GET https://promptbase.com/
+
+
+### 第6周：Tool Calling / Function Calling
+### ------------------------------------------------------------
+
+# DeepSeek Tool Calling 官方文档
+GET https://platform.deepseek.com/api-docs/guides/tool_calling/
+
+# OpenAI Function Calling 官方文档
+GET https://platform.openai.com/docs/guides/function-calling
+
+
+### 第7周：LangChain入门 + Chain构建
+### ------------------------------------------------------------
+
+# LangChain 官方快速入门（Quick Start）
+GET https://python.langchain.com/docs/get_started/quickstart
+# 来源：[reference:9]
+
+# LangChain 中文快速开始（15分钟跑通）
+GET https://jiangren.com.au/wiki/langchain/section/getting-started/quickstart
+# 来源：[reference:10][reference:11]
+
+# LangChain 核心概念解析（Model I/O / Chain / Memory / LCEL）
+GET https://blog.csdn.net/qq_41277597/article/details/146959409
+# 来源：[reference:12]
+
+# LangChain 官方API参考
+GET https://api.python.langchain.com/en/latest/
+
+
+### 第8周：综合项目——智能问答Agent
+### ------------------------------------------------------------
+
+# LangChain Agents 官方文档
+GET https://python.langchain.com/docs/modules/agents/
+
+# Docker 官方文档（用于项目容器化部署）
+GET https://docs.docker.com/get-started/
+
+
+### ============================================================
+### 扩展资源（全阶段通用）
+### ============================================================
+
+# GitHub: llm-course（Hugging Face工程师打造，60k+ Star）
+GET https://github.com/mlabonne/llm-course
+# 来源：阶段一资源
+
+# GitHub: ai-engineering-from-scratch（20阶段435课）
+GET https://github.com/panaversity/ai-engineering-from-scratch
+# 来源：阶段六资源
+
+# GitHub: llm-from-scratch（PyTorch从零实现Transformer）
+GET https://github.com/rasbt/LLMs-from-scratch
+# 来源：阶段二资源
